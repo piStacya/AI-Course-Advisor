@@ -6,7 +6,7 @@ The assistant responds in Estonian, as the app is intended for University of Tar
 
 ## Live demo
 
-> Link will be added after deployment to Streamlit Cloud.
+[Open app](https://ai-course-advisor.streamlit.app/)
 
 ## Code structure
 
