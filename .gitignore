@@ -1,7 +1,7 @@
 .streamlit/secrets.toml
 __pycache__/
 *.py[cod]
-*.pkl
+data/toorandmed_aasta.csv
 *.ipynb
 .env
 data/tagasiside_log.csv
