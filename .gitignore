@@ -1,0 +1,8 @@
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+*.pkl
+*.ipynb
+.env
+data/tagasiside_log.csv
+benchmark_data/benchmark_runs.json
